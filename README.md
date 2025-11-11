@@ -17,9 +17,9 @@ This project is a starting point for a Flutter application.
 <img width="1923" height="1005" alt="image" src="https://github.com/user-attachments/assets/9d64be4c-a154-4e20-b1ac-de024dbfdd8b" />
 
 # Cara Menjalankan
-- Close Repository
-- Jalankan flutter pub get
-- Jalankan flutter run
+```- Close Repository```
+```- Jalankan flutter pub get```
+```- Jalankan flutter run```
 
 # Struktur Project
 ```.
