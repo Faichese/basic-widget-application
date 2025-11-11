@@ -11,6 +11,9 @@ This project is a starting point for a Flutter application.
 - NIM : 23552012015
 - CLASS : TIF RP 23 CID A
 
+# Lampiran laporan
+https://drive.google.com/file/d/1bipJdFlA_xjKcyf6OBlMDdmRKoL0Jq8n/view?usp=sharing
+
 # Screenshot Hasil
 
 # Tampilan Windows
