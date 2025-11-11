@@ -12,9 +12,16 @@ This project is a starting point for a Flutter application.
 - CLASS : TIF RP 23 CID A
 
 # Screenshot Hasil
+Tampilan Windows
 <img width="1923" height="1011" alt="Screenshot 2025-11-11 145332" src="https://github.com/user-attachments/assets/96e18c32-1727-46de-9bfa-956fd455ef30" />
 
 <img width="1923" height="1005" alt="image" src="https://github.com/user-attachments/assets/9d64be4c-a154-4e20-b1ac-de024dbfdd8b" />
+
+Tampilan Mobile
+![Screenshot_2025-11-11-13-04-38-23](https://github.com/user-attachments/assets/968215d7-424a-4193-aaf3-dd2a6277a1af)
+
+![Screenshot_2025-11-11-13-04-51-98](https://github.com/user-attachments/assets/ba64c789-ce4e-48e0-9ff5-2d1422f8397d)
+
 
 # Cara Menjalankan
 ```- Close Repository```
