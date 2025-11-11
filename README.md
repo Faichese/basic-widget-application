@@ -22,21 +22,64 @@ This project is a starting point for a Flutter application.
 - Jalankan flutter run
 
 # Struktur Project
-.
+```.
 ├── .vscode
 │   └── launch.json
 ├── android
 │   ├── app
 │   │   ├── src
-│   │   │   ... (Struktur Android yang penting)
+│   │   │   ├── debug
+│   │   │   │   └── AndroidManifest.xml
+│   │   │   ├── main
+│   │   │   │   ├── java
+│   │   │   │   │   └── io
+│   │   │   │   │       └── flutter
+│   │   │   │   │           └── plugins
+│   │   │   │   │               └── GeneratedPluginRegistrant.java
+│   │   │   │   ├── kotlin
+│   │   │   │   │   └── com
+│   │   │   │   │       └── example
+│   │   │   │   │           └── basic_widget_application
+│   │   │   │   │               └── MainActivity.kt
+│   │   │   │   ├── res
+│   │   │   │   │   ├── drawable
+│   │   │   │   │   │   └── launch_background.xml
+│   │   │   │   │   ├── drawable-v21
+│   │   │   │   │   │   └── launch_background.xml
+│   │   │   │   │   ├── mipmap-hdpi
+│   │   │   │   │   │   └── ic_launcher.png
+│   │   │   │   │   ├── mipmap-mdpi
+│   │   │   │   │   │   └── ic_launcher.png
+│   │   │   │   │   ├── ( ... direktori mipmap lainnya )
+│   │   │   │   │   ├── values
+│   │   │   │   │   │   └── styles.xml
+│   │   │   │   │   └── values-night
+│   │   │   │   │       └── styles.xml
+│   │   │   │   └── AndroidManifest.xml
+│   │   │   └── profile
+│   │   │       └── AndroidManifest.xml
+│   │   └── build.gradle.kts
 │   ├── gradle
-│   │   ...
+│   │   └── wrapper
+│   │       ├── gradle-wrapper.jar
+│   │       └── gradle-wrapper.properties
 │   ├── .gitignore
+│   ├── build.gradle.kts
+│   ├── gradle.properties
+│   ├── gradlew
+│   ├── gradlew.bat
 │   └── settings.gradle.kts
 ├── assets
 │   └── images
-│       ... (Daftar aset)
+│       ├── Avatar Fire and Ash.jpg
+│       ├── Avatar.jpg
+│       ├── Bad-Boys-Ride-or-Die.jpg
+│       ├── Deadpool x Wolverine.jpg
+│       ├── Mystery.jpg
+│       ├── onecutofthedead.jpg
+│       ├── Sonic Adventure X.jpg
+│       └── Sonic X Shadow Generations.jpg
 ├── lib
-│   └── main.dart <--- Hanya satu entri
+│   └── main.dart
 ├── pubspec.yaml
-└── README.md
+└── README.md```
